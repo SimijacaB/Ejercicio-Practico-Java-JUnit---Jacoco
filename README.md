@@ -1,4 +1,4 @@
-# Proyecto Java con JUnit5 y Jacoco
+# Ejercicios Practicos Java con JUnit5 y Jacoco
 
 ## Descripción
 
